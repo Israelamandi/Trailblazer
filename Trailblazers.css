@@ -1,0 +1,169 @@
+
+body{
+	left: 700px;
+}
+.h2{
+	
+position: absolute;
+width: 148px;
+height: 50px;
+left: 620px;
+top: 80px;
+color: #00AEFF;
+}
+.User{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 700px;
+top: 130px;
+}
+
+.Welcome{
+position: absolute;
+width: 173px;
+height: 33px;
+left: 633.5px;
+top: 160px;
+
+font-family: Segoe UI;
+font-size: 25px;
+line-height: 33px;
+
+color: #000000;
+}
+
+.New{
+position: absolute;
+width: 164px;
+height: 21px;
+left: 637px;
+top: 200px;
+
+font-family: Segoe UI;
+font-size: 16px;
+line-height: 21px;
+
+color: rgba(0, 0, 0, 0.57);
+}
+
+.Email{
+position: absolute;
+width: 400px;
+height: 44px;
+left: 519px;
+top: 250px;
+font-family: Segoe UI;
+font-size: 16px;
+line-height: 21px;
+margin: 4px 2px 4px;
+
+}
+
+.Password{
+position: absolute;
+width: 400px;
+height: 44px;
+left: 519px;
+top: 320px;
+font-family: Segoe UI;
+font-size: 16px;
+line-height: 21px;
+margin: 4px 2px 4px;
+ text-align: left;
+ text-decoration: none;
+ display: inline-block;
+
+}
+
+.button1{
+  position: absolute;
+  background-color: #00AEFF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  height:45px;
+  width:400px;
+  left: 520px;
+   top: 380px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.checkmark {
+  position: absolute;
+  top: 430px;
+  left: 520px;
+  height: 15px;
+  width: 15px;
+  
+}
+
+.Remember{
+position: absolute;
+width: 132px;
+height: 22px;
+left: 540px;
+top: 430px;
+
+
+font-family: Segoe UI;
+font-size: 16px;
+line-height: 21px;
+color: #00AEFF;
+
+}
+
+.Forgot{
+
+position: absolute;
+width: 132px;
+height: 22px;
+left: 788px;
+top: 430px;
+
+font-family: Segoe UI;
+font-size: 16px;
+line-height: 21px;
+}
+
+
+.Social{
+
+position: absolute;
+  background-color: #ffffff;
+  padding: 15px 32px;
+  height:45px;
+  width:400px;
+  left: 520px;
+  top: 470px;
+  text-align: center;
+  text-decoration: none;
+  color: #00AEFF;
+  display: inline-block;
+  background:   url("google 1.png") no-repeat left;
+  
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  border: 1px solid #00AEFF;
+  box-sizing: border-box;
+  cursor: pointer;
+
+}
+
+
+span{
+color: #00AEFF;
+text-decoration: underline;	
+}
+
