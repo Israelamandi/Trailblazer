@@ -1,0 +1,11 @@
+div#right{
+    background: url("cover.png");
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+div#left{
+    padding: 80px;
+}
