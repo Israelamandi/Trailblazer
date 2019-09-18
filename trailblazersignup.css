@@ -1,0 +1,197 @@
+.Rectangle{
+
+position: absolute;
+width: 700px;
+height: 600px;
+left: 0px;
+top: 0px;
+}
+
+#Circle{
+position: absolute;
+border-radius: 100px;
+width: 50px;
+height: 50px;
+top: 260px;
+left: 640px;
+background: url(Ellipse.png), #C4C4C4;
+z-index: 1;
+}
+
+#Text{
+
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  color: #000000;
+  font-size: 25px;
+}
+
+.Rectangle2{
+position: absolute;
+width: 700px;
+height: 650px;
+left: 665px;
+top: 0px;
+
+background: url(Rectangle.svg), #C4C4C4;
+opacity: 5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.Signup{
+position: absolute;
+left: 120px;
+top: 50px;
+text-align: center;
+font-family: Roboto;
+font-size: 25px;
+line-height: 59px;
+color: #000000;
+}
+
+.Signup1{
+position: absolute;
+left: 180px;
+top: 100px;
+font-family: Roboto;
+font-size: 20px;
+color: #000000;
+text-align: center;
+}
+
+.USERNAME{
+position: absolute;
+width: 400px;
+height: 40px;
+left: 120px;
+top: 150px;
+
+background: #C4C4C4;
+opacity: 20;
+filter: blur(0.5px);
+}
+
+.EMAIL{
+position: absolute;
+width: 400px;
+height: 40px;
+left: 120px;
+top: 225px;
+
+background: #C4C4C4;
+opacity: 20;
+filter: blur(0.5px);
+}
+
+.PASSWORD{
+position: absolute;
+width: 400px;
+height: 40px;
+left: 120px;
+top: 300px;
+
+background: #C4C4C4;
+opacity: 20;
+filter: blur(0.5px);
+}
+
+.RE-TYPEPASSWORD{
+position: absolute;
+width: 400px;
+height: 40px;
+left: 120px;
+top: 375px;
+
+background: #C4C4C4;
+opacity: 20;
+filter: blur(0.5px);
+}
+
+.button1{
+
+  position: absolute;
+  background-color: #2D9CDB;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  height:40px;
+  width:400px;
+  left: 120px;
+  top: 440px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2{
+
+  position: absolute;
+  background-color: #424CA4;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  height:40px;
+  width:400px;
+  left: 120px;
+  top: 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button3{
+
+  position: absolute;
+  background-color: #2D9CDB;
+  border: none;
+  padding: 5px 10px;
+  height:40px;
+  width:400px;
+  left: 120px;
+  top: 300px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button4{
+
+  position: absolute;
+  background-color: #E02121;
+  border: none;
+  padding: 5px 10px;
+  height:40px;
+  width:400px;
+  left: 120px;
+  top: 400px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  line-height: 21px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
